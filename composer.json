@@ -1,6 +1,12 @@
 {
-    "name": "jsila/relative-date",
-    "description": "Carbon's diffForHumans localization",
+    "name": "jsila/datum",
+    "description": "Razširitev PHP knjižnice Carbon s slovensko različico metode diffForHumans",
+    "keywords": [
+        "datumi",
+        "časi",
+        "relativno",
+        "DateTime"
+    ],
     "license": "MIT",
     "authors": [
         {
